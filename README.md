@@ -12,6 +12,7 @@ Optimal distance on a sphere is know with another script EquiDistribuedPoints
 
 ### Test :
 It work great !!!
+Img in coming
 
 ## Few shot learning part :
 ### Goal :
@@ -26,7 +27,8 @@ I put this data in a network and train triplet loss on it
 I show the test data and see if 8 are in the good hemisphere or not
 
 ### Results :
-For the moment : 66% of 8 are in the good hemisphere
+Model collapsing with keras and hard to know why.
+I switched on pytorch
 
 ### To do :
 Try without any 8 in the learning data
